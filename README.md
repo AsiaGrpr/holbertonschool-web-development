@@ -6,7 +6,7 @@
 
 Read or watch:
 
-    - [Learn to Code HTML & CSS (until “Creating Lists” included)](https://intranet.hbtn.io/rltoken/D6o845Dj6bWanYggYGQK4A)
+    - [Learn to Code HTML & CSS](until “Creating Lists” included)](https://intranet.hbtn.io/rltoken/D6o845Dj6bWanYggYGQK4A)
     - [Introduction to HTML](https://intranet.hbtn.io/rltoken/odwyiWUlo7nyK3UR6FUEdg)
     - [MDN](https://intranet.hbtn.io/rltoken/STnL1M-mwzCvnzHtG21XGQ)
 
