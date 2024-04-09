@@ -1,8 +1,40 @@
 # HTML, advanced
+---
+
+With this project we will be able to create a homepage from scratch, step by steps, using the wireframe and the figma models.
+
+---
+
+### Concepts
+
+For this project, we expect you to look at these concepts:
+
+    - Some pointers about HTML
+    - HTML - elements of a web page
+    - HTML Foundations
+    - HTML - Semantic sectioning elements
+    - HTML Semantic Elements
+    - HTML Validation
+
+---
+
+![SmileSchool Homepage figma](https://github.com/AsiaGrpr/holbertonschool-web-development/blob/main/html_advanced/asset/img/smileschool%20homepage%20figma.jpeg)
+
+![SmileSchool Homepage wireframe](https://github.com/AsiaGrpr/holbertonschool-web-development/blob/main/html_advanced/asset/img/SmileSchool%20homepage%20wireframe.jpeg)
+
+---
+
+## Resources
+
+Read or watch:
+
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) (until “Creating Lists” included)
+- [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [MDN](https://developer.mozilla.org/en-US/)
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+At the end of this project, you are expected to be able to explain to anyone, ***without the help of Google***:
 
 ### General
 
