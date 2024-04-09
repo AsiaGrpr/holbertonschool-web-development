@@ -1,7 +1,40 @@
 # Web development project with Holberton School
 
+---
+
+With this project we will be able to create a homepage from scratch, step by steps, using the wireframe and the figma models.
+
+---
+
+The figma file is availabe [here](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage?type=design&node-id=0-1&mode=design).
+
+Feel free to create an account to access the final result and “Duplicate to your Drafts” to have access to all design details.
+
+
+Important notes with Figma:
+
+- if your computer doesn’t have missing fonts, you can find them here: [source-sans-pro](https://www.fontsquirrel.com/fonts/source-sans-pro) and [Spin-Cycle-OT](https://www.fontsquirrel.com/fonts/Spin-Cycle-OT).
+- some values are in float - feel free to round them
+
+---
+
+![SmileSchool Homepage figma](https://github.com/AsiaGrpr/holbertonschool-web-development/blob/main/html_advanced/asset/img/smileschool%20homepage%20figma.jpeg)
+
+![SmileSchool Homepage wireframe](https://github.com/AsiaGrpr/holbertonschool-web-development/blob/main/html_advanced/asset/img/SmileSchool%20homepage%20wireframe.jpeg)
+
+---
+
 ## Html advanced
 
-### Objectives
+For this first project, we will focus on the HTML structure only - ***no CSS, no style - just pure HTML semantic***.
 
-Create a website from a wireframe.
+### Tasks
+
+0. README and objectives!
+1. Header
+2. Banner
+3. Quote
+4. Videos
+5. Membership
+6. FAQ
+7. Footer
