@@ -2,6 +2,8 @@
 
 # Web development project with Holberton School
 
+</div>
+
 ---
 
 With this project we will be able to create a homepage from scratch, step by steps, using the wireframe and the figma models.
@@ -36,9 +38,6 @@ Important notes with Figma:
 
 
 ---
-
-</div>
-
 
 ## Html advanced
 
